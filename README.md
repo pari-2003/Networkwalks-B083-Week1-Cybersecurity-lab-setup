@@ -305,10 +305,10 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**Pari vallal**\
+Cybersecurity Professional B083
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: (https://www.linkedin.com/in/pari-vallal-76b01a2b1/)
 
 ---
 
